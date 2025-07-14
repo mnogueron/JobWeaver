@@ -1,0 +1,31 @@
+{
+  "name": "teamtailor-adapter",
+  "version": "0.0.1",
+  "description": "JobWeaver adapter for Teamtailor",
+  "keywords": [
+    "jobweaver",
+    "teamtailor",
+    "scraper"
+  ],
+  "author": "mnogueron <matthieu.nogueron@gmail.com>",
+  "homepage": "https://github.com/mnogueron/JobWeaver#readme",
+  "license": "MIT",
+  "main": "lib/teamtailor-adapter.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnogueron/JobWeaver.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/teamtailor-adapter.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/mnogueron/JobWeaver/issues"
+  }
+}
